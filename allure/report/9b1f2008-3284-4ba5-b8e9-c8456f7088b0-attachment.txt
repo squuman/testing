@@ -1,0 +1,8 @@
+[31mElement not clickable![0m
+[31mElement not visible![0m
+URL:  https://www.onpeak.ru/
+Browser logs:
+{'level': 'SEVERE', 'message': 'https://onpeak.agency/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATk3MTYzATE2ODM5MDUyNDQBLwEBAQJCSVRSSVhfU01fTEFTVF9WSVNJVAExNy4wNS4yMDIyIDE4OjI3OjI0ATE2ODM5MDUyNDQBLwEBAQI%3D&k=038740b2ce12f4f47d6e90e34dfd3c25 - Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID', 'source': 'network', 'timestamp': 1652801244765}
+{'level': 'SEVERE', 'message': 'https://www.facebook.com/tr/?id=581289859489724&ev=PageView&dl=https%3A%2F%2Fwww.onpeak.ru%2F&rl=&if=false&ts=1652801245428&sw=800&sh=600&v=2.9.60&r=stable&ec=0&o=158&fbp=fb.1.1652801245424.555570192&it=1652801245143&coo=false&exp=p1&rqm=GET - Failed to load resource: net::ERR_CONNECTION_RESET', 'source': 'network', 'timestamp': 1652801245648}
+{'level': 'SEVERE', 'message': 'https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-24905167-1&cid=1363766615.1652801246&jid=2006301116&gjid=851730386&_gid=190013982.1652801246&_u=YEBAAUAAAAAAAC~&z=1910982505 - Failed to load resource: net::ERR_CONNECTION_RESET', 'source': 'network', 'timestamp': 1652801247694}
+{'level': 'SEVERE', 'message': 'https://www.facebook.com/tr/ - Failed to load resource: net::ERR_CONNECTION_RESET', 'source': 'network', 'timestamp': 1652801247695}

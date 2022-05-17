@@ -1,0 +1,4 @@
+pytest
+pytest-selenium
+termcolor
+allure-pytest==2.8.18
